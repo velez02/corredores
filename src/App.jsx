@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useState } from 'node_modules/booststrap/dist/css/bootstrap.min.css'
 import './App.css'
 
 function App() {
@@ -8,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div className="App border bordrer-radius p-4 max-w-md mx-auto mt-10">
+      <div className="border bordrer-radius p-4 max-w-md mx-auto mt-10">
         <form action="">
           <div className='mb-3'>
             <label htmlFor="name">Nombre</label>
