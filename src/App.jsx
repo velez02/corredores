@@ -31,9 +31,7 @@ function App() {
             <textarea id="description" placeholder='Describe el problema' />
           </div>
           <div>
-            <select name="" id="">
-              <option value=""></option>
-            </select>
+            <button type="submit">Enviar</button>
           </div>
         </form>
       </div>
