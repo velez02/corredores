@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { useState } from 'node_modules/booststrap/dist/css/bootstrap.min.css'
+
 import './App.css'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div className="border bordrer-radius p-4 max-w-md mx-auto mt-10">
+      <div className="App border bordrer-radius p-4 max-w-md mx-auto mt-10">
         <form action="">
           <div className='mb-3'>
             <label htmlFor="name">Nombre</label>
