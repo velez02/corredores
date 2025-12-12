@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div className="App border bordrer-radius p-4 max-w-md mx-auto mt-10">
+      <div className="App  rounded p-4 m-4 border border-shadow-2">
         <form action="">
           <div className='mb-3'>
             <label htmlFor="name">Nombre</label>
